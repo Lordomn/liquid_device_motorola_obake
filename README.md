@@ -2,6 +2,8 @@ Unified device configuration for Motorola Droid Mini / Ultra / MAXX (obake)
 ==============================
 Copyright 2015 - The CyanogenMod Project
 
+Liquid Smooth Obake
+
 This device tree supports:
 
     obakem (xt1030 - Motorola Droid Mini - Verizon / GSM)
